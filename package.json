@@ -1,0 +1,30 @@
+{
+  "name": "recast2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon index.js",
+    "start": "node index.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atherdon/recast2.git"
+  },
+  "keywords": [
+    "ai"
+  ],
+  "author": "arthur.tkachenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atherdon/recast2/issues"
+  },
+  "homepage": "https://github.com/atherdon/recast2#readme",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "recastai": "^3.4.1"
+  }
+}
